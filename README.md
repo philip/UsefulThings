@@ -8,10 +8,21 @@ I forget things, so this is where many of them are remembered.
 * Git Branching: <http://learngitbranching.js.org>
 
 ## Shell Commands
+* <https://github.com/herrbischoff/awesome-osx-command-line> : List of OS X terminal commands
 
+### Examples
 Q: Find files named 'foo' that contain string 'bar'
 
 A: [source](http://unix.stackexchange.com/a/248763), with explanation
 ```
 find . -name "foo" -exec grep -H "bar" {} +
-````
+```
+## Regular Expressions
+* <http://regexr.com/> : Interactive testing
+
+## REST API
+* <https://github.com/toddmotto/public-apis> : List of public REST APIs
+
+## PHP
+* <https://github.com/ziadoz/awesome-php> : List of PHP libraries / tools
+* <https://github.com/kamranahmedse/design-patterns-for-humans> : Simple design pattern explanations
