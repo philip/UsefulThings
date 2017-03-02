@@ -21,6 +21,7 @@ List of things I love and used or use daily. Also, a place to remember them.
 * <https://github.com/ziadoz/awesome-php> : List of PHP libraries / tools
 * <https://thephpleague.com/> : List of PHP Libraries
 * <https://github.com/kamranahmedse/design-patterns-for-humans> : Simple design pattern explanations
+
 ## Shell Commands
 * <https://github.com/herrbischoff/awesome-osx-command-line> : List of OS X terminal commands
 
