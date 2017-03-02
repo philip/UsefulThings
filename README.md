@@ -1,6 +1,6 @@
 # Useful Things
 
-I forget things, so this is where many of them are remembered.
+List of things I love and used or use daily. Also, a place to remember them.
 
 ## Interactive Tutorials
 ### Git
