@@ -17,6 +17,10 @@ A: [source](http://unix.stackexchange.com/a/248763), with explanation
 ```
 find . -name "foo" -exec grep -H "bar" {} +
 ```
+## Tools
+* <https://github.com/wting/autojump> : autojump is "a cd command that learns"
+* <https://beyondgrep.com/> : ack is "a source code search tool for programmers"
+
 ## Regular Expressions
 * <http://regexr.com/> : Interactive testing / learning
 
